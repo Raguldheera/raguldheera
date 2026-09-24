@@ -2,8 +2,6 @@
 
 #### Software Developer
 
-🔭 I’m currently working on Excelencia
-
 🌱 I’m currently focused on Web Development
 <!--
 **Raguldheera/raguldheera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
